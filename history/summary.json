@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.dev.getrova.io.ico",
     "slug": "rova-dashboard",
     "status": "down",
-    "uptime": "73.87%",
-    "uptimeDay": "73.87%",
-    "uptimeWeek": "73.87%",
-    "uptimeMonth": "73.87%",
-    "uptimeYear": "73.87%",
+    "uptime": "71.89%",
+    "uptimeDay": "71.89%",
+    "uptimeWeek": "71.89%",
+    "uptimeMonth": "71.89%",
+    "uptimeYear": "71.89%",
     "time": 545,
     "timeDay": 545,
     "timeWeek": 545,
     "timeMonth": 545,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2024-03-26": 195
+      "2024-03-26": 216
     }
   },
   {
@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.com.ico",
     "slug": "test-broken-site",
     "status": "up",
-    "uptime": "2.83%",
-    "uptimeDay": "2.83%",
-    "uptimeWeek": "2.83%",
-    "uptimeMonth": "2.83%",
-    "uptimeYear": "2.83%",
+    "uptime": "5.42%",
+    "uptimeDay": "5.42%",
+    "uptimeWeek": "5.42%",
+    "uptimeMonth": "5.42%",
+    "uptimeYear": "5.42%",
     "time": 1497,
     "timeDay": 1497,
     "timeWeek": 1497,
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.getrova.com.ico",
     "slug": "rova-website",
     "status": "down",
-    "uptime": "73.86%",
-    "uptimeDay": "73.86%",
-    "uptimeWeek": "73.86%",
-    "uptimeMonth": "73.86%",
-    "uptimeYear": "73.86%",
+    "uptime": "71.88%",
+    "uptimeDay": "71.88%",
+    "uptimeWeek": "71.88%",
+    "uptimeMonth": "71.88%",
+    "uptimeYear": "71.88%",
     "time": 482,
     "timeDay": 482,
     "timeWeek": 482,
     "timeMonth": 482,
     "timeYear": 482,
     "dailyMinutesDown": {
-      "2024-03-26": 195
+      "2024-03-26": 216
     }
   }
 ]
