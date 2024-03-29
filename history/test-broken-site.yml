@@ -1,7 +1,7 @@
 url: https://thissitedoesnotexist.koj.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-29T22:46:20.049Z
+status: up
+code: 200
+responseTime: 500
+lastUpdated: 2024-03-29T22:55:51.399Z
 startTime: 2024-03-26T11:04:08.026Z
 generator: Upptime <https://github.com/upptime/upptime>
